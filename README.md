@@ -1,20 +1,20 @@
-# _{Webnachos}_
-#### _{This is a mix of nachos and HTML}_
-#### By _**{Marcel Nogueira}**_
+# _Webnachos_
+#### _This is a mix of nachos and HTML_
+#### By _**Marcel Nogueira**_
 ## Description
-_{This is a webpage is full of beautiful tags and delicious nachos. The purpose of this page is to make you want to code and eat nachos.}_
+_This is a webpage is full of beautiful tags and delicious nachos. The purpose of this page is to make you want to code and eat nachos._
 ## Setup/Installation Requirements
-* _You will need a HTML5 compatible browser_
+_You will need a HTML5 compatible browser._
 ## Known Bugs
-_{They are all dead}_
+_They are all dead._
 ## Support and contact details
-_{You can find me in Seattle, I am everywhere.}_
+_You can find me in Seattle, I am everywhere._
 ## Technologies Used
-_{HTML & CSS.}_
-###License
-*{MIT License
+_HTML & CSS._
+### License
+MIT License
 
-Copyright (c) [2017] [Marcel Nogueira]
+Copyright (c) 2017 Marcel Nogueira
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -32,4 +32,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}
+SOFTWARE.
